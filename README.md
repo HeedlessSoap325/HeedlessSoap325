@@ -101,6 +101,8 @@ I am 17 years old, and currently still in school.
 ![](https://nirzak-streak-stats.vercel.app/?user=HeedlessSoap325&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=HeedlessSoap325&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-![Snake animation](https://github.com/HeedlessSoap325/HeedlessSoap325/blob/output/github-contribution-grid-snake.svg)
+<div align="center">
+  <img src="https://raw.githubusercontent.com/HeedlessSoap325/HeedlessSoap325/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
+</div>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
